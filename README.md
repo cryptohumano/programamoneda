@@ -32,3 +32,7 @@ Para instalar Python en tu computadora, sigue estos pasos:
 Una vez instalado en la carpeta de origen instala tkinter con pip install tkinter
 
 Instala MySQL para poder ver tu base de datos, no es necesario que este abierto el servidor de MySQL solo requerimos las librerias para que python pueda relacionarlos. 
+
+Para ejecutar el programa el cual es programamoneda.py desde consola ejecuta python3 programamoneda.py 
+
+Twitter: gentle_humano
